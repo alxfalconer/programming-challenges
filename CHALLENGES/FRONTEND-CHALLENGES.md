@@ -7,7 +7,7 @@ ENGLISH
 
 
 -> ACE FRONTEND - 
-https://www.acefrontend.comc
+https://www.acefrontend.com
 
 
 -> CSS BATTLE -
